@@ -1,0 +1,3 @@
+learn a new word,False
+learn a new word,True
+Beating Salma,False
